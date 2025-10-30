@@ -8,6 +8,11 @@ Clicking on any of the "Show Modal" buttons displays a modal popup, and you can 
 
 ---
 
+## 🚀 Demo
+https://yegannee.github.io/Modal/
+
+---
+
 ## 🧠 Features
 
 - 🖱️ Open modal by clicking any of the “Show modal” buttons  
@@ -34,8 +39,3 @@ Clicking on any of the "Show Modal" buttons displays a modal popup, and you can 
 
 ---
 
-## 📦 Installation & Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Yegannee/modal-window.git
